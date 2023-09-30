@@ -5,7 +5,7 @@ Donkey Kong Jr
 Projet en langage C réalisé dans le cadre du cour de Thread 
 
 
-Aplication multi-thread 
+Aplication multithread
 
 
 Donkey Kong Jr (DK Jr) doit libérer Donkey Kong (DK) qui a été capturé par Mario. Pour libérer
